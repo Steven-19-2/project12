@@ -1,0 +1,85 @@
+C:\Users\steve\source\repos\Car Showroom Management System\Car Showroom Management System\bin\Debug\Car Showroom Management System.exe.config
+C:\Users\steve\source\repos\Car Showroom Management System\Car Showroom Management System\bin\Debug\Car Showroom Management System.exe
+C:\Users\steve\source\repos\Car Showroom Management System\Car Showroom Management System\bin\Debug\Car Showroom Management System.pdb
+C:\Users\steve\source\repos\Car Showroom Management System\Car Showroom Management System\obj\Debug\Car Showroom Management System.csproj.AssemblyReference.cache
+C:\Users\steve\source\repos\Car Showroom Management System\Car Showroom Management System\obj\Debug\Car Showroom Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\steve\source\repos\Car Showroom Management System\Car Showroom Management System\obj\Debug\Car_Showroom_Management_System.Form1.resources
+C:\Users\steve\source\repos\Car Showroom Management System\Car Showroom Management System\obj\Debug\Car_Showroom_Management_System.Properties.Resources.resources
+C:\Users\steve\source\repos\Car Showroom Management System\Car Showroom Management System\obj\Debug\Car Showroom Management System.csproj.GenerateResource.cache
+C:\Users\steve\source\repos\Car Showroom Management System\Car Showroom Management System\obj\Debug\Car Showroom Management System.csproj.CoreCompileInputs.cache
+C:\Users\steve\source\repos\Car Showroom Management System\Car Showroom Management System\obj\Debug\Car Showroom Management System.exe
+C:\Users\steve\source\repos\Car Showroom Management System\Car Showroom Management System\obj\Debug\Car Showroom Management System.pdb
+C:\Users\steve\source\repos\Car Showroom Management System\Car Showroom Management System\obj\Debug\Car_Showroom_Management_System.Form2.resources
+C:\Users\steve\source\repos\Car Showroom Management System\Car Showroom Management System\obj\Debug\Car_Showroom_Management_System.Form3.resources
+C:\Users\steve\source\repos\Car Showroom Management System\Car Showroom Management System\obj\Debug\Car_Showroom_Management_System.Form4.resources
+C:\Users\steve\source\repos\Car Showroom Management System\Car Showroom Management System\obj\Debug\Car_Showroom_Management_System.Form5.resources
+C:\Users\steve\source\repos\Car Showroom Management System\Car Showroom Management System\obj\Debug\Car_Showroom_Management_System.Form6.resources
+C:\Users\steve\source\repos\Car Showroom Management System\Car Showroom Management System\obj\Debug\Car_Showroom_Management_System.Form7.resources
+C:\Users\steve\source\repos\Car Showroom Management System\Car Showroom Management System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\steve\source\repos\Car Showroom Management System\Car Showroom Management System\bin\Debug\Google.Protobuf.dll
+C:\Users\steve\source\repos\Car Showroom Management System\Car Showroom Management System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\steve\source\repos\Car Showroom Management System\Car Showroom Management System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\steve\source\repos\Car Showroom Management System\Car Showroom Management System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\steve\source\repos\Car Showroom Management System\Car Showroom Management System\bin\Debug\MySql.Data.dll
+C:\Users\steve\source\repos\Car Showroom Management System\Car Showroom Management System\bin\Debug\System.Buffers.dll
+C:\Users\steve\source\repos\Car Showroom Management System\Car Showroom Management System\bin\Debug\System.Memory.dll
+C:\Users\steve\source\repos\Car Showroom Management System\Car Showroom Management System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\steve\source\repos\Car Showroom Management System\Car Showroom Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\steve\source\repos\Car Showroom Management System\Car Showroom Management System\bin\Debug\ZstdNet.dll
+C:\Users\steve\source\repos\Car Showroom Management System\Car Showroom Management System\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\steve\source\repos\Car Showroom Management System\Car Showroom Management System\bin\Debug\Google.Protobuf.pdb
+C:\Users\steve\source\repos\Car Showroom Management System\Car Showroom Management System\bin\Debug\Google.Protobuf.xml
+C:\Users\steve\source\repos\Car Showroom Management System\Car Showroom Management System\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\steve\source\repos\Car Showroom Management System\Car Showroom Management System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\steve\source\repos\Car Showroom Management System\Car Showroom Management System\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\steve\source\repos\Car Showroom Management System\Car Showroom Management System\bin\Debug\MySql.Data.xml
+C:\Users\steve\source\repos\Car Showroom Management System\Car Showroom Management System\bin\Debug\System.Buffers.xml
+C:\Users\steve\source\repos\Car Showroom Management System\Car Showroom Management System\bin\Debug\System.Memory.xml
+C:\Users\steve\source\repos\Car Showroom Management System\Car Showroom Management System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\steve\source\repos\Car Showroom Management System\Car Showroom Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\steve\source\repos\Car Showroom Management System\Car Showroom Management System\obj\Debug\Car_Showroom_Management_System.Form8.resources
+C:\Users\steve\source\repos\Car Showroom Management System\Car Showroom Management System\obj\Debug\Car Showroom Management System.csproj.CopyComplete
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\bin\Debug\Car Showroom Management System.exe.config
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\bin\Debug\Car Showroom Management System.exe
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\bin\Debug\Car Showroom Management System.pdb
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\bin\Debug\Google.Protobuf.dll
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\bin\Debug\MySql.Data.dll
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\bin\Debug\System.Buffers.dll
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\bin\Debug\System.Memory.dll
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\bin\Debug\ZstdNet.dll
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\bin\Debug\Google.Protobuf.pdb
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\bin\Debug\Google.Protobuf.xml
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\bin\Debug\MySql.Data.xml
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\bin\Debug\System.Buffers.xml
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\bin\Debug\System.Memory.xml
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\obj\Debug\Car Showroom Management System.csproj.AssemblyReference.cache
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\obj\Debug\Car_Showroom_Management_System.Form1.resources
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\obj\Debug\Car_Showroom_Management_System.Form2.resources
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\obj\Debug\Car_Showroom_Management_System.Form3.resources
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\obj\Debug\Car_Showroom_Management_System.Form4.resources
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\obj\Debug\Car_Showroom_Management_System.Form5.resources
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\obj\Debug\Car_Showroom_Management_System.Form6.resources
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\obj\Debug\Car_Showroom_Management_System.Form7.resources
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\obj\Debug\Car_Showroom_Management_System.Form8.resources
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\obj\Debug\Car_Showroom_Management_System.Properties.Resources.resources
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\obj\Debug\Car Showroom Management System.csproj.GenerateResource.cache
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\obj\Debug\Car Showroom Management System.csproj.CoreCompileInputs.cache
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\obj\Debug\Car Showroom Management System.exe
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\obj\Debug\Car Showroom Management System.pdb
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\obj\Debug\Car_Showroom_Management_System.Form10.resources
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\obj\Debug\Car_Showroom_Management_System.Form9.resources
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\obj\Debug\Car_Showroom_Management_System.Form11.resources
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\obj\Debug\Car_Showroom_Management_System.Form12.resources
+C:\Users\steve\source\repos\Car Showroom Management System - Copy\Car Showroom Management System\obj\Debug\Car Show.FAA6AF80.Up2Date
